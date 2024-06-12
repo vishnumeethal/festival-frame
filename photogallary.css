@@ -1,0 +1,222 @@
+.main{
+    width: 400px;
+    height: 75px;
+    background: blue;
+}
+.nav1{
+    position: fixed;
+    top: 0%;
+}
+.head1{
+    position: fixed;
+    height: 13%;
+}
+.head2{
+    position: fixed;
+    padding-left: 68%;
+}
+.text1{
+    color: #ffffff;
+    padding-left: 4%;
+    font-size:45px;
+    font-weight: 800;
+}
+.text2{
+    color: #e2e2e2;
+    font-size: 30px;
+}
+.text3{
+    color: #ffffff;
+    padding-left:4px;
+    padding-right: 91px;
+    font-size:45px;
+    font-weight: 800;
+}
+.text4{
+    color: #ffffff;
+    padding-left:4px;
+    padding-right: 33px;
+    font-size:45px;
+    font-weight: 800;
+}
+
+.writings{
+    font-style: unset;
+}
+.body1{
+    width:50% ;
+    background: rgb(238, 130, 238);
+    padding-top: 135px;
+    padding-left:80px;
+    padding-bottom:50px;
+    padding-right: 80px;
+}
+.body2{
+    width: 50%;
+    height: auto;
+    background: rgb(238, 130, 238);
+    float:left;
+    padding-top: 130px ;
+    padding-left: 60px ;
+    padding-bottom: 70px ;
+    padding-right:10px ;
+}
+.pic1{
+    width:400px;
+    height:400px;
+}
+.body3{
+    width: 100%;
+    height: auto;
+    background: rgb(15, 175, 42);
+    float:left;
+    padding-left:107px ;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.body4{
+    width: 100%;
+    height: auto;
+    background: rgb(238, 130, 238);
+    float:left;
+    padding-top: 115px ;
+    padding-left: 84px ;
+    padding-bottom: 110px ;
+    padding-right:70px ;
+}
+.body5{
+    width: 100%;
+    height:auto;
+    background: rgb(238, 130, 238);
+    float:left;
+    padding-top: 115px ;
+    padding-left: 84px ;
+    padding-bottom: 110px ;
+    padding-right:70px ;
+}
+.body6{
+    width: 100%;
+    height: auto;
+    background: rgb(238, 130, 238);
+    float:left;
+    padding-left: 84px;
+    padding-top: 115px;
+    padding-bottom: 110px;
+    padding-right: 70px;
+}
+
+.body7{
+    width: 100%;
+    height: auto;
+    background: rgb(15, 175, 42);
+    float:left;
+    padding-left: 10px;
+    padding-top: 90px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.inner-body1{
+    width: 300px;
+    height: 350px;
+    background: rgb(15, 175, 42);
+    float:left;
+    padding-left: 47px;
+    padding-top: 20px;
+}
+.inner-body2{
+    width: 300px;
+    height: 350px;
+    background: rgb(15, 175, 42);
+    float:left;
+    padding-left: 47px;
+    padding-top: 20px;
+}
+.inner-body3{
+    width: 300px;
+    height: 350px;
+    background: rgb(15, 175, 42);
+    float:left;
+    padding-left: 47px;
+    padding-top: 20px;
+}
+.two{
+    width: 200px;
+    height: 300px;
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
+.one{
+    width: 200px;
+    height: 300px;
+    padding-left: 10px;
+    padding-top: 50px;
+}   
+.img1{
+    width: 100%;
+    height: 165px;
+    padding-left: 0px;
+    padding-top: 0px;
+    
+}
+.comment-box{
+    width: 300px;
+    height: 150px;
+    padding-left:px;
+    padding-top:px;
+}   
+.form-control{
+    width: 300px;
+    height: 30px;
+    padding-left: 47px;
+    padding-top: 20px;
+}
+
+
+.collections{
+    padding-left: 15px;
+    padding-top: 20px;
+    
+}
+.Message{
+    width: auto;
+    height: auto;
+    background: rgb(15, 175, 42);
+    padding-left: 70px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    padding-right: 70px;
+}
+.my-img{
+    width: 386px;
+    height: 492px;   
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+  
+.overlay-text {
+    position: absolute;
+    top: 57%;
+    left: 18%;
+    transform: translate(-11%, -127%);
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0); /* Transparent background for text */
+    padding: 5px;
+    border-radius: 5px;
+}
+  
+@media (max-width:880px) {
+.overlay-text {
+    font-size: 14px;
+    padding: 1px;
+    }
+}
+
+.footer1{
+    background-color: rgb(238, 130, 238);
+}
+
