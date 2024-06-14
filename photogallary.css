@@ -48,7 +48,7 @@
     background: rgb(238, 130, 238);
     padding-top: 135px;
     padding-left:40px;
-    padding-bottom:50px;
+    padding-bottom:20px;
     padding-right: 30px;
 }
 .body2{
@@ -56,9 +56,9 @@
     height: auto;
     background: rgb(238, 130, 238);
     float:left;
-    padding-top: 130px ;
+    padding-top: 30px ;
     padding-left: 10px ;
-    padding-bottom: 70px ;
+    padding-bottom: 50px ;
     padding-right:10px ;
 }
 .pic1{
