@@ -9,7 +9,7 @@
 }
 .head1{
     position: fixed;
-    height: 70px;
+    height: 80px;
     padding-top: 12px;
 }
 .head2{
@@ -119,7 +119,7 @@
 .inner-body1{
     width: 300px;
     height: 350px;
-    background: rgb(15, 175, 42);
+    background: #008B8B;
     float:left;
     padding-left: 47px;
     padding-top: 20px;
@@ -127,7 +127,7 @@
 .inner-body2{
     width: 300px;
     height: 350px;
-    background: rgb(15, 175, 42);
+    background: #008B8B;
     float:left;
     padding-left: 47px;
     padding-top: 20px;
@@ -135,7 +135,7 @@
 .inner-body3{
     width: 300px;
     height: 350px;
-    background: rgb(15, 175, 42);
+    background: #008B8B;
     float:left;
     padding-left: 47px;
     padding-top: 20px;
@@ -182,7 +182,7 @@
 .Message{
     width: auto;
     height: auto;
-    background: rgb(15, 175, 42);
+    background: #008B8B;
     padding-left: 40px;
     padding-top: 60px;
     padding-bottom: 80px;
